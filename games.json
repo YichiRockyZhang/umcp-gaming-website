@@ -1,0 +1,210 @@
+{
+    "apex": {
+        "name": "Apex Legends",
+        "fullname": "Apex legends",
+        "img": "apex.jpg",
+        "synopsis": "Apex Legends is a fast class-based battle royale that hit the scene in early 2019. It differentiates itself by being class-based with different skills on various characters. Here at UMCP Gaming, we have great players who are willing to help out newer players get into the game!",
+        "meeting": "Although there are no set meeting times for Apex as of yet, you can join the <code>#apex</code> channel in the Discord server by typing <code>!addgame apex</code> in the <code>#in-houses</code> channel!",
+        "contact": "We are currently looking for a Games Board member to take the helm and lead this community. If you are interested, don't hesitate to contact any of the execs or community managers!"
+    },
+    "artifact": {
+        "name": "Artifact",
+        "fullname": "Artifact",
+        "img": "artifact.jpg",
+        "synopsis": "Artifact is Valve's take at a competitive card game. Set with the story of Dota 2, delve deep into the many facets of strategy that Artifact offers. You have three lanes to launch attacks against your opponent and defend against your opponents responses! Multi-tasking will be key for success.",
+        "meeting": "Although there are no set meeting times for Artifact as of yet, you can join the <code>#artifact</code> channel in the Discord server by typing <code>!addgame artifact</code> in the <code>#in-houses</code> channel!",
+        "contact": "We are currently looking for a Games Board member to take the helm and lead this community. If you are interested, don't hesitate to contact any of the execs or community managers!"
+    },
+    "cod": {
+        "name": "COD",
+        "fullname": "Call of Duty",
+        "img": "cod.jpg",
+        "synopsis": "Call of Duty is a first-person shooter video game franchise published by Activision. Starting out in 2003, it first focused on games set in World War II, but over time, the series has seen games set in modern times, the midst of the Cold War, futuristic worlds, and outer space. The games were first developed by Infinity Ward, then also by Treyarch and Sledgehammer Games.",
+        "meeting": "In-houses will be held in the <code>#cod</code> Discord channel on Mondays starting at 9 PM.",
+        "contact": "Contact <code>allday_breakfast#4697</code> on Discord with any questions you have!"
+    },
+    "coop": {
+        "name": "Co-op",
+        "fullname": "Co-op",
+        "img": "coop.png",
+        "synopsis": "UMCP Gaming hosts a vast array of co-op games that are played on a weekly basis! Here you'll find games like SCP:SL, GMOD, Minecraft, and many more. Each week sees a new game, and suggestions are always welcome! Will you be working together or plotting each other's demise? Check out the community if you're interested!",
+        "meeting": "In-houses will be held in the <code>#co-op</code> Discord channel on Saturdays starting at 7 PM.",
+        "contact": "Contact <code>Shyclone#8528</code> on Discord with any questions you have!"
+    },
+    "csgo": {
+        "name": "CS:GO",
+        "fullname": "Counter-Strike: Global Offensive",
+        "img": "csgo.jpg",
+        "synopsis": "The game pits two teams against each other: the Terrorists and the Counter-Terrorists. Both sides are tasked with eliminating the other while also completing separate objectives. The Terrorists, depending on the game mode, must either plant the bomb or defend the hostages, while the Counter-Terrorists must either prevent the bomb from being planted, defuse the bomb, or rescue the hostages.",
+        "meeting": "In-houses will be held in the <code>#csgo</code> Discord channel on Fridays starting at 10 PM.",
+        "contact": "Contact <code>collob#3767</code> on Discord with any questions you have!"
+    },
+    "destiny": {
+        "name": "Destiny 2",
+        "fullname": "Destiny 2",
+        "img": "destiny.jpg",
+        "synopsis": "Players assume the role of a Guardian, protectors of Earth's last safe city as they wield a power called Light to protect the Last City from different alien races. One of these races, the Cabal, led by the warlord Dominus Ghaul, infiltrate the Last City and strips all Guardians of their Light. The player sets out on a journey to regain their Light and find a way to defeat Ghaul and his Red Legion army and take back the Last City.",
+        "meeting": "Although there are no set meeting times for Destiny 2 as of yet, you can join the <code>#destiny</code> channel in the Discord server by typing <code>!addgame destiny</code> in the <code>#in-houses</code> channel!",
+        "contact": "Contact <code>origamiboy2#7878</code> on Discord with any questions you have!"
+    },
+    "dota": {
+        "name": "Dota 2",
+        "fullname": "Dota 2",
+        "img": "dota.jpg",
+        "synopsis": "Dota 2 is a multiplayer online battle arena (MOBA) video game developed and published by Valve. The game is a sequel to Defense of the Ancients (DotA), which was a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos and its expansion pack, The Frozen Throne. Dota 2 is played in matches between two teams of five players, with each team occupying and defending their own separate base on the map.",
+        "meeting": "In-houses will be held in the <code>#dota</code> Discord channel on Tuesdays starting at 8 PM.",
+        "contact": "Contact <code>jaqua (Jake)#3059</code> on Discord with any questions you have!"
+    },
+    "dotaunderlords": {
+        "name": "Dota Underlords",
+        "fullname": "Dota Underlords",
+        "img": "dotaunderlords.jpg",
+        "synopsis": "Dota Underlords is an auto battler, a chess-inspired competitive strategy game, where players place characters known as \"heroes\" on an 8x8 grid-shaped battlefield. After a preparation phase, a team's heroes then automatically fight the opposing team without any further direct input from the player. A match features up to eight players online who take turns playing against each other in a one-on-one format, with the winner being the final player standing after eliminating all of the opposing heroes.",
+        "meeting": "Although there are no set meeting times for Dota Underlords as of yet, you can join the <code>#dotaunderlords</code> channel in the Discord server by typing <code>!addgame dotaunderlords</code> in the <code>#in-houses</code> channel!",
+        "contact": "We are currently looking for a Games Board member to take the helm and lead this community. If you are interested, don't hesitate to contact any of the execs or community managers!"
+    },
+    "fortnite": {
+        "name": "Fortnite",
+        "fullname": "Fortnite",
+        "img": "fortnite.jpg",
+        "synopsis": "Fortnite is an online video game developed by Epic Games and released in 2017. It is available in three distinct game mode versions that otherwise share the same general gameplay and game engine: Fortnite: Save the World, a cooperative shooter-survival game for up to four players to fight off zombie-like creatures and defend objects with fortifications they can build; Fortnite Battle Royale, a free-to-play battle royale game where up to 100 players fight to be the last person standing; and Fortnite Creative, where players are given complete freedom to create worlds and battle arenas.",
+        "meeting": "Although there are no set meeting times for Fortnite as of yet, you can join the <code>#fortnite</code> channel in the Discord server by typing <code>!addgame fortnite</code> in the <code>#in-houses</code> channel!",
+        "contact": "We are currently looking for a Games Board member to take the helm and lead this community. If you are interested, don't hesitate to contact any of the execs or community managers!"
+    },
+    "gta": {
+        "name": "Grand Theft Auto",
+        "fullname": "Grand Theft Auto",
+        "img": "gta.jpg",
+        "synopsis": "Most games in the series are set in fictional locales modelled on cities, usually either Liberty City, Vice City or San Andreas, which are stand-ins for New York City, Miami and the state of California, respectively. The first game encompassed three fictional cities, while subsequent titles tend to emphasise a single setting. Gameplay focuses on an open world where the player can choose missions to progress an overall story, as well as engaging in side activities, all consisting of action-adventure, driving, third-person shooting, carjacking, occasional role-playing, stealth and racing elements.",
+        "meeting": "In-houses will be held in the <code>#gta</code> Discord channel. Times and days will be decided during the beginning of the semester.",
+        "contact": "Contact <code>rush2sk8#8463</code> on Discord with any questions you have!"
+    },
+    "halo": {
+        "name": "Halo",
+        "fullname": "Halo",
+        "img": "halo.jpeg",
+        "synopsis": "Halo is a military science fiction media franchise centered on a series of video games managed and developed by 343 Industries, a division of Xbox Game Studios. Halo was originally developed by Bungie Studios. The series centers on an interstellar war between humanity and an alliance of aliens known as the Covenant. The Covenant, led by their religious leaders called the Prophets, worship an ancient civilization known as the Forerunners, who perished while defeating the parasitic Flood.",
+        "meeting": "In-houses will be held in the <code>#halo</code> Discord channel. Times and days will be decided during the beginning of the semester.",
+        "contact": "Contact <code>Zveir#7404</code> on Discord with any questions you have!"
+    },
+    "hearthstone": {
+        "name": "Hearthstone",
+        "fullname": "Hearthstone",
+        "img": "hearthstone.jpg",
+        "synopsis": "Hearthstone is a free-to-play online digital collectible card game developed and published by Blizzard Entertainment. Originally subtitled Heroes of Warcraft, Hearthstone builds upon the existing lore of the Warcraft series by using the same elements, characters, and relics.",
+        "meeting": "Although there are no set meeting times for Hearthstone as of yet, you can join the <code>#hearthstone</code> channel in the Discord server by typing <code>!addgame hearthstone</code> in the <code>#in-houses</code> channel!",
+        "contact": "Contact <code>Zen#9845</code> on Discord with any questions you have!"
+    },
+    "heroes": {
+        "name": "HotS",
+        "fullname": "Heroes of the Storm",
+        "img": "hots.jpg",
+        "synopsis": "Heroes of the Storm is a crossover multiplayer online battle arena video game developed and published by Blizzard Entertainment and released on June 2, 2015, for Microsoft Windows and macOS. The game features various characters from Blizzard's franchises as playable heroes, as well as different battlegrounds based on Warcraft, Diablo, StarCraft, and Overwatch universes.",
+        "meeting": "Although there are no set meeting times for Heroes of the Storm as of yet, you can join the <code>#heroes</code> channel in the Discord server by typing <code>!addgame heroes</code> in the <code>#in-houses</code> channel!",
+        "contact": "We are currently looking for a Games Board member to take the helm and lead this community. If you are interested, don't hesitate to contact any of the execs or community managers!"
+    },
+    "league": {
+        "name": "League of Legends",
+        "fullname": "League of Legends",
+        "img": "league.jpg",
+        "synopsis": "In League of Legends, players assume the role of an unseen \"summoner\" that controls a \"champion\" with unique abilities and battle against a team of other players or computer-controlled champions. The goal is usually to destroy the opposing team's \"Nexus\", a structure that lies at the heart of a base protected by defensive structures, although other distinct game modes exist as well. Each League of Legends match is discrete, with all champions starting off relatively weak but increasing in strength by accumulating items and experience over the course of the game.",
+        "meeting": "In-houses will be held in the <code>#league</code> Discord channel on Saturdays starting at 9 PM.",
+        "contact": "Contact <code>Remagi#7616</code> and <code>senorclean#0636</code> on Discord with any questions you have!"
+    },
+    "mhw": {
+        "name": "MHW",
+        "fullname": "Monster Hunter: World",
+        "img": "mhw.jpg",
+        "synopsis": "In the game, the player takes the role of a Hunter, tasked to hunt down and either kill or trap monsters that roam in one of several environmental spaces. If successful, the player is rewarded through loot consisting of parts from the monster and other elements that are used to craft weapons and armor, amongst other equipment. The game's core loop has the player crafting appropriate gear to be able to hunt down more difficult monsters, which in turn provide parts that lead to more powerful gear.",
+        "meeting": "Although there are no set meeting times for Monster Hunter: World as of yet, you can join the <code>#mhw</code> channel in the Discord server by typing <code>!addgame mhw</code> in the <code>#in-houses</code> channel!",
+        "contact": "We are currently looking for a Games Board member to take the helm and lead this community. If you are interested, don't hesitate to contact any of the execs or community managers!"
+    },
+    "overwatch": {
+        "name": "Overwatch",
+        "fullname": "Overwatch",
+        "img": "overwatch.jpg",
+        "synopsis": "Overwatch is a team-based multiplayer first-person shooter developed and published by Blizzard Entertainment. Described as a \"hero shooter,\" Overwatch assigns players into two teams of six, with each player selecting from a roster of over 30 characters, known as \"heroes,\" each with a unique style of play that is divided into three general roles that fit their purpose. Players on a team work together to secure and defend control points on a map or escort a payload across the map in a limited amount of time.",
+        "meeting": "In-houses will be held in the <code>#overwatch</code> Discord channel on Sundays starting at 7 PM.",
+        "contact": "Contact <code>tian#0804</code> on Discord with any questions you have!"
+    },
+    "pubg": {
+        "name": "PUBG",
+        "fullname": "PlayerUnknown Battlegrounds",
+        "img": "pubg.jpg",
+        "synopsis": "PlayerUnknown's Battlegrounds (PUBG) is an online multiplayer battle royale game developed and published by PUBG Corporation, a subsidiary of South Korean video game company Bluehole. The game is based on previous mods that were created by Brendan \"PlayerUnknown\" Greene for other games, inspired by the 2000 Japanese film Battle Royale, and expanded into a standalone game under Greene's creative direction. In the game, up to one hundred players parachute onto an island and scavenge for weapons and equipment to kill others while avoiding getting killed themselves.",
+        "meeting": "Although there are no set meeting times for PUBG as of yet, you can join the <code>#pubg</code> channel in the Discord server by typing <code>!addgame pubg</code> in the <code>#in-houses</code> channel!",
+        "contact": "We are currently looking for a Games Board member to take the helm and lead this community. If you are interested, don't hesitate to contact any of the execs or community managers!"
+    },
+    "siege": {
+        "name": "Rainbow Six",
+        "fullname": "Rainbow Six Siege",
+        "img": "siege.jpg",
+        "synopsis": "The game puts heavy emphasis on environmental destruction and cooperation between players. Each player assumes control of an attacker or a defender in different gameplay modes such as rescuing a hostage, defusing a bomb, and taking control of a capture point. The title has no campaign but features a series of short missions that can be played solo.",
+        "meeting": "In-houses will be held in the <code>#rainbow6</code> Discord channel on Thursdays starting at 10 PM.",
+        "contact": "Contact <code>B.HAN#2340</code> on Discord with any questions you have!"
+    },
+    "rhythm": {
+        "name": "Rhythm",
+        "fullname": "Rhythm",
+        "img": "osu.jpg",
+        "synopsis": "At Maryland we play a variety of rhythm games such as osu!, beatsaber, DDR and more. Osu! is our most popular title, and we hold weekly online multi lobbies and tournaments at every lan. We hope to see you there!",
+        "meeting": "In-houses will be held in the <code>#rhythm</code> Discord channel on Fridays starting at 5 PM.",
+        "contact": "Contact <code>KamehK#0001</code> on Discord with any questions you have!"
+    },
+    "rl": {
+        "name": "Rocket League",
+        "fullname": "Rocket League",
+        "img": "rl.jpg",
+        "synopsis": "Described as \"soccer, but with rocket-powered cars\", Rocket League has up to four players assigned to each of the two teams, using rocket-powered vehicles to hit a ball into their opponent's goal and score points over the course of a match. The game includes single-player and multiplayer modes which can be played both locally and online, including cross-platform play between all versions. Later updates for the game enabled the ability to modify core rules and added new game modes, including ones based on ice hockey and basketball.",
+        "meeting": "Although there are no set meeting times for Rocket League as of yet, you can join the <code>#rl</code> channel in the Discord server by typing <code>!addgame rl</code> in the <code>#in-houses</code> channel!",
+        "contact": "We are currently looking for a Games Board member to take the helm and lead this community. If you are interested, don't hesitate to contact any of the execs or community managers!"
+    },
+    "smite": {
+        "name": "Smite",
+        "fullname": "Smite",
+        "img": "smite.jpg",
+        "synopsis": "Smite is a free-to-play, third-person multiplayer online battle arena (MOBA) video game developed and published by Hi-Rez Studios for Microsoft Windows, macOS, PlayStation 4, Nintendo Switch, and Xbox One.[6] In Smite, players control a god, goddess, or other mythological figure, and take part in team-based combat, using their abilities and tactics against other player-controlled gods and non-player-controlled minions.",
+        "meeting": "Although there are no set meeting times for Smite as of yet, you can join the <code>#smite</code> channel in the Discord server by typing <code>!addgame smite</code> in the <code>#in-houses</code> channel!",
+        "contact": "We are currently looking for a Games Board member to take the helm and lead this community. If you are interested, don't hesitate to contact any of the execs or community managers!"
+    },
+    "smash": {
+        "name": "Smash",
+        "fullname": "Super Smash Bros.",
+        "img": "smash.jpeg",
+        "synopsis": "Super Smash Bros.[a] is a series of crossover fighting video games published by Nintendo, and primarily features characters from various Nintendo franchises. The series was created by Masahiro Sakurai, who has directed every game in the series. The gameplay objective differs from that of traditional fighters in that the aim is to knock opponents off the stage instead of depleting life bars.",
+        "meeting": "In-houses will be held in the <code>#smash</code> Discord channel. Times and days will be determined during the beginning of the semester.",
+        "contact": "Contact <code>topjam#3444</code> on Discord with any questions you have!"
+    },
+    "starcraft": {
+        "name": "StarCraft",
+        "fullname": "StarCraft II",
+        "img": "sc2.jpg",
+        "synopsis": "StarCraft is a military science fiction media franchise created by Chris Metzen and James Phinney and owned by Blizzard Entertainment. The series, set in the beginning of the 26th century, centers on a galactic struggle for dominance among four species—the adaptable and mobile Terrans, the ever-evolving insectoid Zerg, the powerfully enigmatic Protoss, and the \"god-like\" Xel'Naga creator race—in a distant part of the Milky Way galaxy known as the Koprulu Sector.",
+        "meeting": "Although there are no set meeting times for StarCraft II as of yet, you can join the <code>#starcraft</code> channel in the Discord server by typing <code>!addgame starcraft</code> in the <code>#in-houses</code> channel!",
+        "contact": "We are currently looking for a Games Board member to take the helm and lead this community. If you are interested, don't hesitate to contact any of the execs or community managers!"
+    },
+    "tft": {
+        "name": "Teamfight Tactics",
+        "fullname": "Teamfight Tactics",
+        "img": "tft.jpg",
+        "synopsis": "Teamfight Tactics is an auto battler game mode implemented on June 26, 2019.[40][41] Based on the Dota 2 mod Dota Auto Chess, the mode centers around a battlefield consisting of hexagons, which players may take turns to strategically place champions onto a game board. After champions are placed, a short battle automatically commences, with the outcome - the number of champions killed - determining the health and gold of each player. Once a player's health is completely depleted, they are out of the game, with the last player standing being the winner.",
+        "meeting": "Although there are no set meeting times for Teamfight Tactics as of yet, you can join the <code>#tft</code> channel in the Discord server by typing <code>!addgame tft</code> in the <code>#in-houses</code> channel!",
+        "contact": "We are currently looking for a Games Board member to take the helm and lead this community. If you are interested, don't hesitate to contact any of the execs or community managers!"
+    },
+    "tf2": {
+        "name": "TF2",
+        "fullname": "Team Fortress 2",
+        "img": "tf2.png",
+        "synopsis": "Players join one of two teams comprising nine character classes, battling in game modes including capture the flag and king of the hill. Development was led by John Cook and Robin Walker, creators of the original Team Fortress. Announced in 1998, the game once had more realistic, militaristic visuals and gameplay, but this changed over the protracted nine-year development. After Valve released no information for six years, Team Fortress 2 regularly featured in Wired News' annual vaporware list among other ignominies.",
+        "meeting": "Although there are no set meeting times for Team Fortress 2 as of yet, you can join the <code>#tf2</code> channel in the Discord server by typing <code>!addgame tf2</code> in the <code>#in-houses</code> channel!",
+        "contact": "We are currently looking for a Games Board member to take the helm and lead this community. If you are interested, don't hesitate to contact any of the execs or community managers!"
+    },
+    "warframe": {
+        "name": "Warframe",
+        "fullname": "Warframe",
+        "img": "warframe.jpg",
+        "synopsis": "In Warframe, players control members of the Tenno, a race of ancient warriors who have awoken from centuries of cryosleep far into Earth's future to find themselves at war in the planetary system with different factions. The Tenno use their powered Warframes along with a variety of weapons and abilities to complete missions. While many of the game's missions use procedurally-generated levels, newer updates have included large open world areas similar to other massively multiplayer online games as well as some story-specific missions with fixed level design.",
+        "meeting": "In-houses will be held in the <code>#warframe</code> Discord channel on Wednesdays starting at 9 PM.",
+        "contact": "Contact <code>Moist Pyroshark#7147</code> on Discord with any questions you have!"
+    }
+}
